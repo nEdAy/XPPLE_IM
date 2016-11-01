@@ -130,7 +130,6 @@
 
   本App运行稳定，界面美观，交互体验良好流畅。不出现闪退、无法进入应用的情况，并具有一个APP必须的完整性，具有设置、关于、更新检测、帮助与反馈
 
-![](http://blog-10046956.cos.myqcloud.com/1%20%282%29.png)
 ![](http://blog-10046956.cos.myqcloud.com/1%20%283%29.png)
 ![](http://blog-10046956.cos.myqcloud.com/1%20%284%29.png)
 ![](http://blog-10046956.cos.myqcloud.com/1%20%285%29.png)

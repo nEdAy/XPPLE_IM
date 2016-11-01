@@ -1,0 +1,7 @@
+#Tue Nov 01 15:19:36 CST 2016
+base.0=D\:\\XPPLE_IM\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_26c0506064eca0791890b1f3a52c90ccaa19bebc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\XPPLE_IM\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a497981c06e23fb27fc0b66d9e3617aeeab0dc7\\classes.dex
+base.1=D\:\\XPPLE_IM\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a497981c06e23fb27fc0b66d9e3617aeeab0dc7
+file.0=D\:\\XPPLE_IM\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_26c0506064eca0791890b1f3a52c90ccaa19bebc\\classes.dex

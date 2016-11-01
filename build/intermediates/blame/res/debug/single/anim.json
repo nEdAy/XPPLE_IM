@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "D:\\XPPLE_IM\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_left.xml",
+        "source": "D:\\XPPLE_IM\\res\\anim\\anim_chat_voice_left.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\anim\\anim_chat_voice_right.xml",
+        "source": "D:\\XPPLE_IM\\res\\anim\\anim_chat_voice_right.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\anim\\button_shake.xml",
+        "source": "D:\\XPPLE_IM\\res\\anim\\button_shake.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "D:\\XPPLE_IM\\res\\anim\\shrink_from_top.xml"
+    }
+]

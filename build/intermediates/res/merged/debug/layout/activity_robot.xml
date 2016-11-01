@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_chat"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/layout_register"
+        layout="@layout/include_action_bar" />
+
+    <com.xpple.im.view.xlist.XListView
+        android:id="@+id/id_chat_listView"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:cacheColorHint="#0000"
+        android:divider="@null"
+        android:dividerHeight="5dp"
+        android:scrollbarStyle="outsideOverlay" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_half_transparent"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/base_scrollview_top_height"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp" >
+
+        <com.xpple.im.view.EmoticonsEditText
+            android:id="@+id/edit_user_comment"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="1.0"
+            android:background="@color/color_transparent_bg"
+            android:hint="Your response..."
+            android:imeOptions="flagNoExtractUi"
+            android:minHeight="@dimen/tab_padding_left_right"
+            android:padding="5dp"
+            android:textColor="@color/base_color_text_white"
+            android:textColorHint="@color/base_color_text_white" />
+
+        <Button
+            android:id="@+id/btn_chat_voice"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/btn_chat_voice_selector"
+            android:gravity="center"
+            android:textColor="@color/base_color_text_black" >
+        </Button>
+
+        <Button
+            android:id="@+id/btn_chat_keyboard"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/btn_chat_keyboard_selector"
+            android:gravity="center"
+            android:textColor="@color/base_color_text_black"
+            android:visibility="gone" >
+        </Button>
+
+        <Button
+            android:id="@+id/btn_chat_send"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/btn_chat_send_selector"
+            android:gravity="center"
+            android:textColor="@color/base_color_text_black"
+            android:visibility="gone" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

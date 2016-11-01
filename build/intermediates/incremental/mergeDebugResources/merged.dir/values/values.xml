@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="baise">#ffffff</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#9fa0a0</color>
+    <color name="base_color_text_white">#ffffff</color>
+    <color name="color_bottom_text_normal">#9da0a4</color>
+    <color name="color_bottom_text_press">#4f9ef6</color>
+    <color name="color_half_transparent">#50000000</color>
+    <color name="color_transparent_bg">#00000000</color>
+    <color name="dialog_color_title">#f82c22</color>
+    <color name="lanse">#77e6ed</color>
+    <declare-styleable name="ActionSheet"><attr format="color|reference" name="actionSheetBackground"/><attr format="color|reference" name="cancelButtonBackground"/><attr format="color|reference" name="otherButtonTopBackground"/><attr format="color|reference" name="otherButtonMiddleBackground"/><attr format="color|reference" name="otherButtonBottomBackground"/><attr format="color|reference" name="otherButtonSingleBackground"/><attr format="color|reference" name="cancelButtonTextColor"/><attr format="color|reference" name="otherButtonTextColor"/><attr format="dimension|reference" name="actionSheetPadding"/><attr format="dimension|reference" name="otherButtonSpacing"/><attr format="dimension|reference" name="cancelButtonMarginTop"/><attr format="dimension|reference" name="actionSheetTextSize"/></declare-styleable>
+    <declare-styleable name="ActionSheets"><attr format="reference" name="actionSheetStyle"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="base_action_bar_height">50.0dip</dimen>
+    <dimen name="base_action_bar_title_size">22.0sp</dimen>
+    <dimen name="base_line_width">0.5dip</dimen>
+    <dimen name="base_line_width_1">1dip</dimen>
+    <dimen name="base_line_width_2">2dip</dimen>
+    <dimen name="base_scrollview_top_height">50.0dip</dimen>
+    <dimen name="dialog_padding">40dp</dimen>
+    <dimen name="margin_chat_top">5.0dip</dimen>
+    <dimen name="message_top_height">70.0dip</dimen>
+    <dimen name="score_item_height">100.0dip</dimen>
+    <dimen name="tab_padding_left_right">40dp</dimen>
+    <dimen name="tab_padding_top_bottom">15dp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="time_line_content_left_margin">52.0dip</dimen>
+    <dimen name="time_line_content_right_margin">7.0dip</dimen>
+    <dimen name="time_line_line_left_margin">24dip</dimen>
+    <dimen name="time_line_line_width">2.0dip</dimen>
+    <string name="BMAppUpdate">应用更新</string>
+    <string name="BMBreak_Network">未联网</string>
+    <string name="BMDialog_InstallAPK">最新版本已下载，是否安装？</string>
+    <string name="BMGprsCondition">（提示：非WIFI环境）</string>
+    <string name="BMIgnore">忽略该版</string>
+    <string name="BMNewVersion">最新版本: </string>
+    <string name="BMNotNow">以后再说</string>
+    <string name="BMTargetSize">新版本大小:</string>
+    <string name="BMToast_IsUpdating">正在更新中....</string>
+    <string name="BMUpdateCheck">v3.1.4Beta</string>
+    <string name="BMUpdateContent">更新内容</string>
+    <string name="BMUpdateNow">立即更新</string>
+    <string name="BMUpdateSize">仅需要下载:</string>
+    <string name="BMUpdateTitle">发现新版本</string>
+    <string name="ImageViewDescription">TODO</string>
+    <string name="add_avatar">头像</string>
+    <string name="add_friend"> 添加好友</string>
+    <string name="add_gender">性别</string>
+    <string name="add_name">账号</string>
+    <string name="add_name_hint"> 请输入昵称…</string>
+    <string name="add_nick">昵称</string>
+    <string name="app_name">解密陌生人</string>
+    <string name="authorEmail">neday@bk.ru</string>
+    <string name="black_tips">已添加至黑名单，你将不再收到对方的消息!</string>
+    <string name="blacklist">加入黑名单</string>
+    <string name="blacklist2">黑名列表</string>
+    <string name="bmob_common_action_cancel">取消</string>
+    <string name="bmob_common_action_continue">继续</string>
+    <string name="bmob_common_action_info_exist">正在下载中.</string>
+    <string name="bmob_common_action_pause">暂停</string>
+    <string name="bmob_common_download_failed">下载失败</string>
+    <string name="bmob_common_download_finish">下载完成，请点击安装</string>
+    <string name="bmob_common_download_notification_prefix">正在下载: </string>
+    <string name="bmob_common_info_interrupt">下载出错啦，请检查网络后继续。</string>
+    <string name="bmob_common_network_break_alert">请连接网络后再尝试！</string>
+    <string name="bmob_common_patch_finish">更新完成，请点击安装</string>
+    <string name="bmob_common_pause_notification_prefix">暂停: </string>
+    <string name="bmob_common_silent_download_finish">新版本已经准备好，请点击安装</string>
+    <string name="bmob_common_start_download_notification">正在下载应用</string>
+    <string name="bmob_common_start_patch_notification">正在更新安装包</string>
+    <string name="camera">拍摄</string>
+    <string name="chat">发起会话</string>
+    <string name="game">比大小</string>
+    <string name="location">位置</string>
+    <string name="login">登录</string>
+    <string name="login_account">账号 </string>
+    <string name="login_email">确认密码 </string>
+    <string name="login_email_hint"> 请重复输入密码…</string>
+    <string name="login_gender_hint"> 请点击选择性别…</string>
+    <string name="login_nickname">昵称 </string>
+    <string name="login_password_hint"> 请输入密码…</string>
+    <string name="login_pwd">密码 </string>
+    <string name="login_username_hint"> 请输入用户名…</string>
+    <string name="logout"> 退出登陆</string>
+    <string name="longclick_speak">长按说话</string>
+    <string name="main_tab_contact">联系人</string>
+    <string name="main_tab_recent">会话</string>
+    <string name="message_search_hint">搜索…</string>
+    <string name="mian_tab_set">发现</string>
+    <string name="near_people"> 巧遇附近</string>
+    <string name="near_people_play">开始解密</string>
+    <string name="network_tips">当前网络不可用,请检查您的网络!</string>
+    <string name="new_friends">新朋友</string>
+    <string name="picture">照片</string>
+    <string name="pop_choose">从手机相册选中</string>
+    <string name="pop_photo">拍照</string>
+    <string name="register">注册</string>
+    <string name="register_txt1">还没有账号？</string>
+    <string name="register_txt2">立即注册 ></string>
+    <string name="robot"> 小陌机器人</string>
+    <string name="search">搜索</string>
+    <string name="send_feedback">发送反馈</string>
+    <string name="send_feedback_hint">请在此输入您的反馈…</string>
+    <string name="send_state">已读</string>
+    <string name="set_about"> 关于</string>
+    <string name="set_blacklist">黑名单</string>
+    <string name="set_myinfo">个人资料</string>
+    <string name="set_notify">接收新消息通知</string>
+    <string name="set_vibrate">震动</string>
+    <string name="set_voice">声音</string>
+    <string name="teamSlogan">小苹果,让生活更简单!</string>
+    <string name="tips">提示</string>
+    <string name="toast_error_avatar_null">头像不能为默认</string>
+    <string name="toast_error_comfirm_password">输入的两次密码不一致</string>
+    <string name="toast_error_gender_null">性别不能为空</string>
+    <string name="toast_error_nickname_null">昵称不能为空</string>
+    <string name="toast_error_password_null">密码不能为空</string>
+    <string name="toast_error_username_null">用户名不能为空</string>
+    <string name="update"> 版本更新</string>
+    <string name="username">用户名</string>
+    <string name="versionName">version 2.1.6.8</string>
+    <string name="voice_cancel_tips">松开手指，取消发送</string>
+    <string name="voice_seconds_tips">还可以说%1$s秒</string>
+    <string name="voice_short_tips">录音时间太短</string>
+    <string name="voice_up_tips">手指上滑,取消发送</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载…</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <style name="ActionBar">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/color_half_transparent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">@dimen/base_action_bar_height</item>
+    </style>
+    <style name="ActionBarTitle">
+        <item name="android:textSize">@dimen/base_action_bar_title_size</item>
+        <item name="android:textColor">@color/base_color_text_white</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">1.0dip</item>
+    </style>
+    <style name="ActionSheetStyleIOS7">
+        <item name="actionSheetBackground">@android:color/transparent</item>
+        <item name="cancelButtonBackground">@drawable/slt_as_ios7_cancel_bt</item>
+        <item name="otherButtonTopBackground">@drawable/slt_as_ios7_other_bt_top</item>
+        <item name="otherButtonMiddleBackground">@drawable/slt_as_ios7_other_bt_middle</item>
+        <item name="otherButtonBottomBackground">@drawable/slt_as_ios7_other_bt_bottom</item>
+        <item name="otherButtonSingleBackground">@drawable/slt_as_ios7_other_bt_single</item>
+        <item name="cancelButtonTextColor">#1E82FF</item>
+        <item name="otherButtonTextColor">#1E82FF</item>
+        <item name="actionSheetPadding">10dp</item>
+        <item name="otherButtonSpacing">0dp</item>
+        <item name="cancelButtonMarginTop">10dp</item>
+        <item name="actionSheetTextSize">16sp</item>
+    </style>
+    <style name="Animations"/>
+    <style name="Animations.GrowFromBottom">
+        <item name="@android:windowEnterAnimation">@anim/grow_from_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_top</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Register_Edit">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:background">@color/color_half_transparent</item>
+    </style>
+    <style name="Smile">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Smile.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/base_action_bar_height</item>
+    </style>
+    <style name="Smile.Button.logout" parent="Smile.TextView._White"/>
+    <style name="Smile.Button.theme" parent="Smile.TextView._White"/>
+    <style name="Smile.ImageView">
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="Smile.ImageView.Photo_Large">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="Smile.ImageView.Photo_Middle">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="Smile.ImageView.Photo_Small">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="Smile.TextView">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Smile.TextView._Black">
+        <item name="android:textColor">@color/base_color_text_black</item>
+    </style>
+    <style name="Smile.TextView._Gray">
+        <item name="android:textColor">@color/base_color_text_gray</item>
+    </style>
+    <style name="Smile.TextView._Orange">
+        <item name="android:textColor">@color/dialog_color_title</item>
+    </style>
+    <style name="Smile.TextView._White">
+        <item name="android:textColor">@color/base_color_text_white</item>
+    </style>
+    <style name="Smile.View_margin">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="chat_text_date_style">
+        <item name="android:padding">2dp</item>
+        <item name="android:paddingTop">2dip</item>
+        <item name="android:paddingBottom">2dip</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textColor">@color/base_color_text_white</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">@drawable/chat_time_block</item>
+    </style>
+    <style name="chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="dialog_tran" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style>
+    <style name="dialog_untran" parent="dialog_tran">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

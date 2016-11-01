@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gplus_search_bbg.jpg",
+        "source": "D:\\XPPLE_IM\\res\\drawable-hdpi\\gplus_search_bbg.jpg"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chat.jpg",
+        "source": "D:\\XPPLE_IM\\res\\drawable-hdpi\\bg_chat.jpg"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "D:\\XPPLE_IM\\res\\drawable-hdpi\\bg.jpg"
+    }
+]

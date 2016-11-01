@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_bottom_pressed.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_more_bg_p.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_more_bg_p.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue401.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue401.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_get_pic_big.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\bg_get_pic_big.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_back_bg_n.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_back_bg_n.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_send_p.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_send_p.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emo_delete_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\emo_delete_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue415.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue415.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue40a.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue40a.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_account_normal.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\bg_account_normal.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_middle_pressed.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue414.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue414.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue417.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue417.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_single_pressed.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emo_delete_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\emo_delete_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue40b.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue40b.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue41f.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue41f.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue403.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue403.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_picture_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_picture_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_emo_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_emo_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_msg_search.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_msg_search.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_contact_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_contact_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue404.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue404.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue058.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue058.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_camera_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_camera_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_back_bg_p.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_back_bg_p.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue057.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue057.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue40d.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue40d.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_message_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_message_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_more_bg_n.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_more_bg_n.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_daxiao_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_daxiao_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_clear_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_head.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\default_head.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_set_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_set_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue416.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue416.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_bottom_normal.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue413.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue413.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_voice_bg_press.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_voice_bg_press.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_voice_bg.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_voice_bg.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue410.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue410.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue40f.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue40f.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_message_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_message_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_picture_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_picture_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_add_bg_p.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_add_bg_p.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_single_normal.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_account_focus.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\bg_account_focus.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_camera_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_camera_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_push.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_push.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_location_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_location_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_middle_normal.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue107.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue107.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_emo_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_emo_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue407.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue407.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_clear_pressed.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue406.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue406.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue40e.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue40e.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue00e.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue00e.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue411.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue411.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue108.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue108.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue105.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue105.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue11a.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue11a.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue409.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue409.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_contact_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_contact_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_voice_normal.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_voice_normal.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_true_bg_n.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_true_bg_n.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_add_bg_n.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_add_bg_n.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue40c.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue40c.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\on.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\on.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_left_qp.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_left_qp.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue421.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue421.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\base_action_bar_true_bg_p.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\base_action_bar_true_bg_p.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_set_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_set_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_clear.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\btn_clear.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_chat_emote_selector.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\bg_chat_emote_selector.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_location_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_location_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue418.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue418.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue412.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue412.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_time_block.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_time_block.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\off.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\off.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue106.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue106.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_add_daxiao_press.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_add_daxiao_press.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue059.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue059.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_take_pic_big.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\bg_take_pic_big.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue408.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue408.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue056.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue056.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_send_n.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_send_n.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue402.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue402.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_right_qp.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\chat_right_qp.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_top_normal.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ue405.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\ue405.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionsheet_top_pressed.9.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_set.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable-xhdpi\\icon_set.png"
+    }
+]

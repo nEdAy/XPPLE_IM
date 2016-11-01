@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_face_text.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_face_text.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_puzzle.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_puzzle.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_conversation.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_rightbutton.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\common_header_rightbutton.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_message.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_received_message.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_show_picture.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_show_picture.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_image.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_sent_image.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_near_people.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_near_people.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_near_people.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_near_people.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_message.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_sent_message.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\include_emo_gridview.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\include_emo_gridview.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showpicture.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_showpicture.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_set.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\fragment_set.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_add_friend.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_add_friend.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback_list.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_feedback_list.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_robot.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_robot.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\common_header_button.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\common_header_button.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_usericon.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\dialog_usericon.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_blacklist.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_blacklist.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recent.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\fragment_recent.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_user_friend.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_user_friend.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\include_action_bar.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\include_action_bar.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_info.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_set_info.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_redar.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_redar.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sendfeedback.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_sendfeedback.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_bottom_bar.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\include_chat_bottom_bar.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_voice_short.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\include_chat_voice_short.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_location.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_sent_location.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_location.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_received_location.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_updateinfo.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_set_updateinfo.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_image.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_received_image.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\include_chat_add.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\include_chat_add.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_received_voice.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_received_voice.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_sent_voice.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_chat_sent_voice.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friend.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_new_friend.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blacklist.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\activity_blacklist.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\item_feedback.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\item_feedback.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\layout\\common_header.xml",
+        "source": "D:\\XPPLE_IM\\res\\layout\\common_header.xml"
+    }
+]

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_main"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/common_actionbar"
+        layout="@layout/include_action_bar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/showName"
+            style="@style/Smile.TextView._White"
+            android:layout_above="@+id/avatar"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="20dp"
+            android:drawablePadding="10dp" />
+
+        <com.xpple.im.view.RoundImageView
+            android:id="@+id/avatar"
+            style="@style/Smile.ImageView"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:padding="5dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/default_head" />
+
+        <ImageView
+            android:id="@+id/push_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginRight="40dp"
+            android:layout_toLeftOf="@+id/avatar"
+            android:src="@drawable/icon_push" />
+
+        <ImageView
+            android:id="@+id/set_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/avatar"
+            android:src="@drawable/icon_set" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/image1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="64dp"
+            android:layout_marginTop="55dp"
+            android:drawableTop="@drawable/qiaoyu"
+            android:text="@string/near_people"
+            android:textColor="@color/base_color_text_white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/image2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="64dp"
+            android:layout_marginTop="55dp"
+            android:drawableTop="@drawable/new_friends_icon"
+            android:text="@string/add_friend"
+            android:textColor="@color/base_color_text_white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/image4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/image2"
+            android:layout_alignTop="@+id/image3"
+            android:drawableTop="@drawable/hei"
+            android:text="@string/blacklist2"
+            android:textColor="@color/base_color_text_white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/image3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/image1"
+            android:layout_below="@+id/image1"
+            android:layout_marginTop="64dp"
+            android:drawableTop="@drawable/xiaomo"
+            android:text="@string/robot"
+            android:textColor="@color/base_color_text_white"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</LinearLayout>

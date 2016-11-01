@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\BmobSDK_V3.3.5_0408.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40484e10e7fc470815a97be1d397af0d1e0c34d">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_V3.3.5_0408_2564e9e3c0401d5e1ee7c0d367f0b02ec16ce537\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2653b5baa891f0ec9bdbdeb3dc43c305c8b67e6">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1a497981c06e23fb27fc0b66d9e3617aeeab0dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\photoview-library-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\photoview-library-1.2.2_178dc86d799296deae1a08767acf925f90162a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_71461f8aadafed232ee49eda1bf6622bf757a90d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_65b415fb9cd34054d51df03854b320cf27d0dd35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-library-2.4.0_18c6a351ddfd6ac1a04701d4bca97a9e32e8facb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\BmobIM_V1.1.8beta_20150408.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="907a85394fb689ff69e302b8eb077422941d18a5">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\BmobIM_V1.1.8beta_20150408_65557f79b157d429023905af45e8a9130bc7b7dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="868c060abfa9778e598e631f93f94037edbe8996">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_17e8bb72a417d00a074ef4f44728db7a89c35a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5bf8ba5e8091b5e80dd72b05875523490e7185f1">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_26c0506064eca0791890b1f3a52c90ccaa19bebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\XPPLE_IM\libs\universal-image-loader-1.9.2_sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="D:\XPPLE_IM\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_sources_71fe2be4b2788bd4b63c3b25cdafe932b29a5b41\classes.dex" />
+    </item>
+
+</items>

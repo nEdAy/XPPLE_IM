@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xpple.im.view.DragLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="30dp"
+        android:paddingLeft="30dp"
+        android:paddingTop="50dp" >
+
+        <com.xpple.im.view.RoundImageView
+            android:id="@+id/iv_set_avatar"
+            style="@style/Smile.ImageView"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:padding="5dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="2dp"
+            android:src="@drawable/default_head" />
+
+        <TextView
+            android:id="@+id/nick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/iv_set_avatar"
+            android:gravity="center_vertical|center_horizontal"
+            android:paddingLeft="5dp"
+            android:paddingTop="20dp"
+            android:text="@string/add_nick"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/base_color_text_white"
+            android:textSize="24sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_set_avatar"
+            android:orientation="vertical"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:id="@+id/near_people"
+                android:layout_width="180.0dip"
+                android:layout_height="50.0dip"
+                android:clickable="true"
+                android:drawableLeft="@drawable/wz"
+                android:drawablePadding="1.0dip"
+                android:gravity="center_vertical"
+                android:paddingLeft="15.0dip"
+                android:paddingRight="10.0dip"
+                android:text="@string/near_people"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <View
+                android:layout_width="180.0dip"
+                android:layout_height="2.0dip"
+                android:background="@drawable/ic_shelf_category_divider" />
+
+            <TextView
+                android:id="@+id/add_friend"
+                android:layout_width="180.0dip"
+                android:layout_height="50.0dip"
+                android:clickable="true"
+                android:drawableLeft="@drawable/cg"
+                android:drawablePadding="1.0dip"
+                android:gravity="center_vertical"
+                android:paddingLeft="15.0dip"
+                android:paddingRight="10.0dip"
+                android:text="@string/add_friend"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <View
+                android:layout_width="180.0dip"
+                android:layout_height="2.0dip"
+                android:background="@drawable/ic_shelf_category_divider" />
+
+            <TextView
+                android:id="@+id/robot"
+                android:layout_width="match_parent"
+                android:layout_height="50.0dip"
+                android:clickable="true"
+                android:drawableLeft="@drawable/ro"
+                android:drawablePadding="1.0dip"
+                android:gravity="center_vertical"
+                android:paddingLeft="15.0dip"
+                android:paddingRight="10.0dip"
+                android:text="@string/robot"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <View
+                android:layout_width="180.0dip"
+                android:layout_height="2.0dip"
+                android:background="@drawable/ic_shelf_category_divider" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:id="@+id/logout"
+                    android:layout_width="180.0dip"
+                    android:layout_height="50.0dip"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:clickable="true"
+                    android:drawableLeft="@drawable/ic_menu_info_details"
+                    android:drawablePadding="1.0dip"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15.0dip"
+                    android:paddingRight="10.0dip"
+                    android:text="@string/logout"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/check_for_updates"
+                    android:layout_width="180.0dip"
+                    android:layout_height="50.0dip"
+                    android:layout_above="@+id/logout"
+                    android:layout_alignParentLeft="true"
+                    android:clickable="true"
+                    android:drawableLeft="@drawable/a3222"
+                    android:drawablePadding="1.0dip"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15.0dip"
+                    android:paddingRight="10.0dip"
+                    android:text="@string/update"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/about"
+                    android:layout_width="180.0dip"
+                    android:layout_height="50.0dip"
+                    android:layout_above="@+id/check_for_updates"
+                    android:clickable="true"
+                    android:drawableLeft="@drawable/a324"
+                    android:drawablePadding="1.0dip"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="15dip"
+                    android:paddingRight="10.0dip"
+                    android:text="@string/set_about"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+                <View
+                    android:layout_width="180.0dip"
+                    android:layout_height="2.0dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignTop="@+id/logout"
+                    android:background="@drawable/ic_shelf_category_divider" />
+
+                <View
+                    android:layout_width="180.0dip"
+                    android:layout_height="2.0dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignTop="@+id/check_for_updates"
+                    android:background="@drawable/ic_shelf_category_divider" />
+
+                <View
+                    android:layout_width="180.0dip"
+                    android:layout_height="2.0dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignTop="@+id/about"
+                    android:background="@drawable/ic_shelf_category_divider" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.xpple.im.view.MyRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#eeeeee" >
+
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/mainLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/color_transparent_bg" >
+
+            <LinearLayout
+                android:id="@+id/main_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/bg_xia"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/btn_message"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_half_transparent"
+                        android:drawableTop="@drawable/tab_message_btn"
+                        android:onClick="onTabSelect"
+                        android:paddingBottom="2dip"
+                        android:paddingTop="7dip"
+                        android:scaleType="matrix"
+                        android:text="@string/main_tab_recent"
+                        android:textColor="@color/base_color_text_white"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/iv_recent_tips"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginRight="30dp"
+                        android:layout_marginTop="7dp"
+                        android:background="@drawable/msg_tips"
+                        android:contentDescription="@string/ImageViewDescription"
+                        android:gravity="center"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp"
+                        android:visibility="visible" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/btn_contract"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_half_transparent"
+                        android:drawableTop="@drawable/tab_contact_btn"
+                        android:onClick="onTabSelect"
+                        android:paddingBottom="2dip"
+                        android:paddingTop="7dip"
+                        android:scaleType="matrix"
+                        android:text="@string/main_tab_contact"
+                        android:textColor="@color/base_color_text_white"
+                        android:textSize="12sp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/btn_set"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_half_transparent"
+                        android:drawableTop="@drawable/tab_set_btn"
+                        android:onClick="onTabSelect"
+                        android:paddingBottom="2dip"
+                        android:paddingTop="7dip"
+                        android:scaleType="matrix"
+                        android:text="@string/mian_tab_set"
+                        android:textColor="@color/base_color_text_white"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/iv_contact_tips"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginRight="30dp"
+                        android:layout_marginTop="7dp"
+                        android:background="@drawable/msg_tips"
+                        android:contentDescription="@string/ImageViewDescription"
+                        android:gravity="center"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp"
+                        android:visibility="visible" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/main_bottom" >
+            </RelativeLayout>
+        </RelativeLayout>
+    </com.xpple.im.view.MyRelativeLayout>
+
+</com.xpple.im.view.DragLayout>

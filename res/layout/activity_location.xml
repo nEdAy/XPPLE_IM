@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/layout_register"
+        layout="@layout/include_action_bar" />
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/layout_register"
+        android:clickable="true" />
+
+    <RelativeLayout
+        android:id="@+id/ll_play"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@color/base_color_text_white"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/image_redar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="4dp"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/default_head" />
+
+        <TextView
+            android:id="@+id/text_redar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/image_redar"
+            android:gravity="center_horizontal"
+            android:text="@string/app_name"
+            android:textColor="@color/base_color_text_black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/user_nick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/play_btn"
+            android:layout_toRightOf="@+id/text_redar"
+            android:gravity="center_horizontal"
+            android:text=""
+            android:textColor="@color/base_color_text_black" />
+
+        <Button
+            android:id="@+id/play_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/card_bk"
+            android:gravity="center"
+            android:text="@string/near_people_play"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </RelativeLayout>
+
+</RelativeLayout>

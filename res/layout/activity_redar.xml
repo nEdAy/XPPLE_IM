@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gplus_search_bbg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/layout_register"
+        layout="@layout/include_action_bar" />
+
+    <com.xpple.im.view.SearchDevicesView
+        android:id="@+id/search_device_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_register"
+        android:background="@drawable/gplus_search_bbg"
+        android:visibility="gone" >
+
+    </com.xpple.im.view.SearchDevicesView>
+
+    <ImageView
+        android:id="@+id/image_redar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_register"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="71dp"
+        android:src="@drawable/sensor_shake" />
+
+    <TextView
+        android:id="@+id/text_redar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_redar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="83dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/base_color_text_white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

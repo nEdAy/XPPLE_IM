@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\card_bk.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\card_bk.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_dialog_bg.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\custom_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_daxiao_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_add_daxiao_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_emo_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_emo_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_more_bg_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\base_action_bar_more_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_voice_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_voice_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\dialog_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_textcolor.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\tab_textcolor.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_shape.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\button_selector_shape.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_btn.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\tab_contact_btn.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_location_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_add_location_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\recent_name_text_color_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\recent_name_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_emote_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_picture_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_add_picture_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_shape_normal.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\dialog_shape_normal.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_single.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\slt_as_ios7_other_bt_single.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emo_delete_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_emo_delete_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_set_btn.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\tab_set_btn.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_gallery_contacts_dialog_background.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\v2_gallery_contacts_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_bottom.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\slt_as_ios7_other_bt_bottom.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_send_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_send_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_keyboard_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_keyboard_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_cancel_bt.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\slt_as_ios7_cancel_bt.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_add_bg_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\base_action_bar_add_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_true_bg_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\base_action_bar_true_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\base_action_bar_back_bg_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\base_action_bar_back_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_shape_pressed.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\dialog_shape_pressed.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_camera_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_add_camera_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_middle.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\slt_as_ios7_other_bt_middle.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_edittext_account.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\selector_edittext_account.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_add_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_add_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_record_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_record_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_sortlistview_sidebar_background.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\v2_sortlistview_sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\recent_message_text_color_selector.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\recent_message_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_fail_resend.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\btn_chat_fail_resend.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_top.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\slt_as_ios7_other_bt_top.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_black.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\progress_black.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_message_btn.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\tab_message_btn.xml"
+    },
+    {
+        "merged": "D:\\XPPLE_IM\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal_shape.xml",
+        "source": "D:\\XPPLE_IM\\res\\drawable\\button_normal_shape.xml"
+    }
+]

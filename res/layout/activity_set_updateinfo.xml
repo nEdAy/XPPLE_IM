@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_chat"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/layout_register"
+        layout="@layout/include_action_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/color_half_transparent"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/Smile.TextView._Black"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center_vertical"
+            android:text="@string/add_nick"
+            android:textColor="@color/base_color_text_white"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edit_nick"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:background="@color/color_transparent_bg"
+            android:gravity="center_vertical"
+            android:hint="@string/add_name_hint"
+            android:textColor="@color/base_color_text_white"
+            android:textColorHint="@color/base_color_text_gray" />
+
+    </LinearLayout>
+
+</LinearLayout>
